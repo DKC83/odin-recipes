@@ -1,1 +1,1 @@
-# odin-recipes
+This is my first Odin Project where I'll be creating a recipe website. This will give me practice in using my newly found HTML skills including working with text, images, links and lists. I'm looking forwards to seeing what I can create and hope to improve this as my TOP journey continues. 
